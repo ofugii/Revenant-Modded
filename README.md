@@ -14,7 +14,7 @@ Designed to be **easy to drop in**, visually clean, and extensible.
 
 ```lua
 local Revenant = loadstring(game:HttpGet(
-    "https://raw.githubusercontent.com/norixu/Revenant-Modded/refs/heads/main/source.lua"
+    "https://raw.githubusercontent.com/ofugii/Revenant-Modded/refs/heads/main/source.lua"
 ))()
 ```
 
@@ -24,7 +24,7 @@ local Revenant = loadstring(game:HttpGet(
 
 ```lua
 local Revenant = loadstring(game:HttpGet(
-    "https://raw.githubusercontent.com/norixu/Revenant-Modded/refs/heads/main/source.lua"
+    "https://raw.githubusercontent.com/ofugii/Revenant-Modded/refs/heads/main/source.lua"
 ))()
 
 local Window = Revenant:Window({
@@ -50,7 +50,7 @@ Revenant:Notification({
 
 ```lua
 local Revenant = loadstring(game:HttpGet(
-    "https://raw.githubusercontent.com/norixu/Revenant-Modded/refs/heads/main/source.lua"
+    "https://raw.githubusercontent.com/ofugii/Revenant-Modded/refs/heads/main/source.lua"
 ))()
 
 -- main window
@@ -218,4 +218,4 @@ Revenant:Window({ Text = "Hello" })
 
 # GitHub
 
-https://github.com/norixu/Revenant-Modded
+https://github.com/ofugii/Revenant-Modded
